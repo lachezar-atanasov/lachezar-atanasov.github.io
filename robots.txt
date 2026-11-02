@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lachezar-atanasov.github.io/sitemap.xml
